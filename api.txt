@@ -1,0 +1,208 @@
+
+AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+https://maps.googleapis.com/maps/api/directions/json?origin=Toronto&destination=Montreal&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+
+https://maps.googleapis.com/maps/api/directions/json?origin=-1.8396886,109.9773985&destination=-1.829558,109.9723071&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+
+https://maps.googleapis.com/maps/api/directions/json?origin=Jl.%20DI%20Panjaitan,%20Sampit,%20Delta%20Pawan,%20Kabupaten%20Ketapang,%20Kalimantan%20Barat%2078811,%20Indonesia&destination=Jl.%20M.T.%20Haryono%20No.12,%20Tengah,%20Delta%20Pawan,%20Kabupaten%20Ketapang,%20Kalimantan%20Barat%2078811,%20Indonesia&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+
+https://maps.googleapis.com/maps/api/directions/json?origin=-1.829558,109.9723071&destination=-1.8396886,109.9773985&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
+======================
+
+Array
+(
+    [0] => Array
+        (
+            [distance] => Array
+                (
+                    [text] => 1.6 km
+                    [value] => 1562
+                )
+
+            [duration] => Array
+                (
+                    [text] => 3 mins
+                    [value] => 195
+                )
+
+            [end_address] => Jl. M.T. Haryono No.12, Tengah, Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811, Indonesia
+            [end_location] => Array
+                (
+                    [lat] => -1.8389116
+                    [lng] => 109.9777081
+                )
+
+            [start_address] => Jl. DI Panjaitan, Sampit, Delta Pawan, Kabupaten Ketapang, Kalimantan Barat 78811, Indonesia
+            [start_location] => Array
+                (
+                    [lat] => -1.8307614
+                    [lng] => 109.9721041
+                )
+
+            [steps] => Array
+                (
+                    [0] => Array
+                        (
+                            [distance] => Array
+                                (
+                                    [text] => 0.7 km
+                                    [value] => 747
+                                )
+
+                            [duration] => Array
+                                (
+                                    [text] => 2 mins
+                                    [value] => 92
+                                )
+
+                            [end_location] => Array
+                                (
+                                    [lat] => -1.8370967
+                                    [lng] => 109.9743182
+                                )
+
+                            [html_instructions] => Head southeast on Jl. H. Agus Salim toward Gg. Cucakrowo
+                            [polyline] => Array
+                                (
+                                    [points] => fqdJs|e~Sp@UnCu@DCt@Sd@M`@KhCq@bCq@bDq@tA[`B_@xA_@fDw@TEj@M
+                                )
+
+                            [start_location] => Array
+                                (
+                                    [lat] => -1.8307614
+                                    [lng] => 109.9721041
+                                )
+
+                            [travel_mode] => DRIVING
+                        )
+
+                    [1] => Array
+                        (
+                            [distance] => Array
+                                (
+                                    [text] => 0.5 km
+                                    [value] => 480
+                                )
+
+                            [duration] => Array
+                                (
+                                    [text] => 1 min
+                                    [value] => 60
+                                )
+
+                            [end_location] => Array
+                                (
+                                    [lat] => -1.8363381
+                                    [lng] => 109.9785288
+                                )
+
+                            [html_instructions] => At the roundabout, take the 1st exit onto Jl. KH.Mansyur
+                            [maneuver] => roundabout-left
+                            [polyline] => Array
+                                (
+                                    [points] => zxeJojf~SA??A?A?A@??A?A@??A@??A@?@?Ke@QmAS}A_@oC[gCGq@QmAM}@Eg@CO?{A
+                                )
+
+                            [start_location] => Array
+                                (
+                                    [lat] => -1.8370967
+                                    [lng] => 109.9743182
+                                )
+
+                            [travel_mode] => DRIVING
+                        )
+
+                    [2] => Array
+                        (
+                            [distance] => Array
+                                (
+                                    [text] => 0.3 km
+                                    [value] => 267
+                                )
+
+                            [duration] => Array
+                                (
+                                    [text] => 1 min
+                                    [value] => 34
+                                )
+
+                            [end_location] => Array
+                                (
+                                    [lat] => -1.8387013
+                                    [lng] => 109.978141
+                                )
+
+                            [html_instructions] => Turn right onto Jl. Letjend S. Parman
+                            [maneuver] => turn-right
+                            [polyline] => Array
+                                (
+                                    [points] => bteJydg~SlCLT@pAPfADl@Hf@FZHf@H
+                                )
+
+                            [start_location] => Array
+                                (
+                                    [lat] => -1.8363381
+                                    [lng] => 109.9785288
+                                )
+
+                            [travel_mode] => DRIVING
+                        )
+
+                    [3] => Array
+                        (
+                            [distance] => Array
+                                (
+                                    [text] => 68 m
+                                    [value] => 68
+                                )
+
+                            [duration] => Array
+                                (
+                                    [text] => 1 min
+                                    [value] => 9
+                                )
+
+                            [end_location] => Array
+                                (
+                                    [lat] => -1.8389116
+                                    [lng] => 109.9777081
+                                )
+
+                            [html_instructions] => At the roundabout, take the 2nd exit onto Jl. M.T. Haryono
+Destination will be on the right
+
+                            [maneuver] => roundabout-left
+                            [polyline] => Array
+                                (
+                                    [points] => zbfJkbg~S@??A@?@?@?@?@?@?@?@?@??@@?@??@@?@@?@@??@@??@?@@??@?@?@?@?@?@?@?@?@A@?@A??@A@A@A??@A?Nf@BB
+                                )
+
+                            [start_location] => Array
+                                (
+                                    [lat] => -1.8387013
+                                    [lng] => 109.978141
+                                )
+
+                            [travel_mode] => DRIVING
+                        )
+
+                )
+
+            [traffic_speed_entry] => Array
+                (
+                )
+
+            [via_waypoint] => Array
+                (
+                )
+
+        )
+
+)
