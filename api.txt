@@ -14,6 +14,12 @@ https://maps.googleapis.com/maps/api/directions/json?origin=Jl.%20DI%20Panjaitan
 
 https://maps.googleapis.com/maps/api/directions/json?origin=-1.829558,109.9723071&destination=-1.8396886,109.9773985&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
 
+
+
+// mengambil lokasi pencarian
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=haji%20murni%20gg%20jeruk%201%20ketapang%20kalimantan%20barat&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key=AIzaSyCHYF333AldGKP8pkcpTiy9EWnQZnFqsf8
+
 ======================
 
 Array
